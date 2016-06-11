@@ -232,7 +232,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {147191022},--Sudo users
+    sudo_users = {147191022,174770816},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 hunter super anti spam bot
